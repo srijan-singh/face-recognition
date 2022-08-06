@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/srijan/face_recognition/cmake-3.2.2/Utilities/cmcompress/cmcompress.c
+cmcompress.h
+/home/srijan/face_recognition/cmake-3.2.2/Utilities/cmcompress/cmcompress.h
+errno.h
+-
+string.h
+-
+
+/home/srijan/face_recognition/cmake-3.2.2/Utilities/cmcompress/cmcompress.h
+stdio.h
+-
+
